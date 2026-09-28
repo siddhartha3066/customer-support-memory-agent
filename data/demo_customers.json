@@ -1,0 +1,29 @@
+{
+  "CUST-1001": {
+    "name": "Ananya Rao",
+    "history": [
+      "Checkout error PAY-204 on Windows 11 + Chrome 140.",
+      "Disabling a browser extension fixed the checkout problem.",
+      "Customer prefers concise troubleshooting steps.",
+      "The same issue returned after the extension was re-enabled."
+    ]
+  },
+  "CUST-1002": {
+    "name": "Rahul Mehta",
+    "history": [
+      "CSV export was empty on Safari/macOS.",
+      "Clearing cache did not help.",
+      "Switching to Chrome fixed the export.",
+      "Customer prefers detailed technical steps by email."
+    ]
+  },
+  "CUST-1003": {
+    "name": "Priya Sharma",
+    "history": [
+      "Push notifications were delayed on Android.",
+      "Battery optimization was enabled.",
+      "Disabling battery optimization fixed notification delays.",
+      "Customer was frustrated after missing an important alert."
+    ]
+  }
+}
